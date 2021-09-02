@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/devfinder/static/js/main.a0de0424.chunk.js",
+    "main.js.map": "/devfinder/static/js/main.a0de0424.chunk.js.map",
+    "runtime-main.js": "/devfinder/static/js/runtime-main.30ebbea3.js",
+    "runtime-main.js.map": "/devfinder/static/js/runtime-main.30ebbea3.js.map",
+    "static/js/2.09cfca4a.chunk.js": "/devfinder/static/js/2.09cfca4a.chunk.js",
+    "static/js/2.09cfca4a.chunk.js.map": "/devfinder/static/js/2.09cfca4a.chunk.js.map",
+    "index.html": "/devfinder/index.html",
+    "static/js/2.09cfca4a.chunk.js.LICENSE.txt": "/devfinder/static/js/2.09cfca4a.chunk.js.LICENSE.txt",
+    "static/media/icon-company.6f78ffb3.svg": "/devfinder/static/media/icon-company.6f78ffb3.svg",
+    "static/media/icon-location.f11c5487.svg": "/devfinder/static/media/icon-location.f11c5487.svg",
+    "static/media/icon-moon.cce754ce.svg": "/devfinder/static/media/icon-moon.cce754ce.svg",
+    "static/media/icon-twitter.f6a2a695.svg": "/devfinder/static/media/icon-twitter.f6a2a695.svg",
+    "static/media/icon-website.b7923f6c.svg": "/devfinder/static/media/icon-website.b7923f6c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30ebbea3.js",
+    "static/js/2.09cfca4a.chunk.js",
+    "static/js/main.a0de0424.chunk.js"
+  ]
+}
