@@ -10,20 +10,7 @@ import twitter from '../icon-twitter.svg'
 import website from '../icon-website.svg'
 
 const useStyles = makeStyles({
-    div: {
-        display: "block",
-        margin: "auto",
-        width: "50%"
-    },
-    header: {
-        display: 'flex'
-    },
-    title: {
-        flexGrow: 1
-    },
-    text: {
-        flexGrow: 1
-    }
+    
 })
 
 const DevFinder = () => {
@@ -42,19 +29,19 @@ const DevFinder = () => {
         fetchData()
     },[fetchData])
     return (
-        <div className={classes.div}>
-            <div className={classes.header}>
-                <Typography className={classes.title}>
+        <div>
+            <div>
+                <Typography>
                     devfinder
                 </Typography>
-                <div className={classes.header}>
+                <div>
                     <Typography>
                         Dark
                     </Typography>
                     <img src={moon} alt="moon"/>
                 </div>
             </div>
-            <Paper className={classes.header}>
+            <Paper>
                 <TextField 
                     id="standard-basic" 
                     label="Search Github username..." 
